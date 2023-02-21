@@ -1,0 +1,19 @@
+1. var let const
+. break up with var
+
+2. default Parameters
+
+3. Template String
+4. Arrow Function
+5. spread
+6. destructuring
+8. Map
+9. ForEach
+10. filter === হচ্ছে যে গুলোর শর্ত ম্যাচ করবে সবগুলোকে দিবে আউটপুট হিসেবে।
+11. find === হচ্ছে যেটার শর্ত ম্যাচ করবে েসেই উপাদানটাকে আউটপুট হিসেবে দিবে ।
+12. Reduce ===
+
+13. Notation.js === []
+
+14. class === syntactic sugar
+15. (must know) === prototypical Inheritance
